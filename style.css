@@ -1,0 +1,46 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card-image {
+    height: 200px;
+    padding: 5px;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.slider .card {
+    background-color: rgb(125, 123, 123);
+}
+
+.star {
+    color: #fdb01c;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: #260707;
+}
+.border-solid-1px{
+    border-right: 2px solid gray !important;;
+}
+.border-1{
+    border: 1px solid rgba(128, 128, 128, 0.187);
+}
+.price{
+    font-size: 30px;
+    color: #CC0C39;
+    /* font-weight: 300; */
+}
+p{
+    font-size: 13px;
+}
+select{
+    background-color: aliceblue;
+    border-radius: 8px;
+}
